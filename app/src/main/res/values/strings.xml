@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="next_text">Next</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Sorry, That is Incorrect</string>
+
+    <string name="question_australia">Canberra is the capital of Australia.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+
+<!--    <string name="question_canada_f">Toronto is the Capital Of Canada.</string>-->
+<!--    <string name="question_australia_f">Sydney is the Capital Of Australia.</string>-->
+<!--    <string name="question_brazil_f">Salvador is the Capital Of Brazil.</string>-->
+<!--    <string name="question_germany_f">Munich is the Capital Of Germany.</string>-->
+<!--    <string name="question_india_f">Mumbai is the Capital Of India.</string>-->
+<!--    <string name="question_russia_f">St. Petersburg is the Capital Of Russia.</string>-->
+<!--    <string name="question_usa_f">New York is the Capital Of USA.</string>-->
+<!--    <string name="question_japan_f">Kyoto is the Capital Of Japan.</string>-->
+
+<!--    <string name="question_uk_t">London is the Capital Of UK.</string>-->
+<!--    <string name="question_italy_t">Rome is the Capital Of Italy.</string>-->
+<!--    <string name="question_france_t">Paris is the Capital Of France.</string>-->
+<!--    <string name="question_china_t">Beijing is the Capital Of China.</string>-->
+<!--    <string name="question_south_korea_t">Seoul is the Capital Of South Korea.</string>-->
+<!--    <string name="question_north_korea_t">Pyongyang is the Capital Of North Korea.</string>-->
+<!--    <string name="question_nigeria_t">Abuja is the Capital Of Nigeria.</string>-->
+<!--    <string name="question_egypt_t">Cairo is the Capital Of Egypt.</string>-->
+
+</resources>
